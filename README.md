@@ -19,3 +19,7 @@ If you fetch any issue to use our blog module please go to our site and contact 
 # Who We Are
 
 We are author of themeforest, Please <a href="https://themeforest.net/user/xpert-idea/portfolio?ref=xpert-idea">click here</a> to see our profile . Also you can visit our website. http://xpert-idea.com/
+
+You can also visit our premimum prestashop themes:
+* <a href="https://themeforest.net/item/jakiro-fashion-shop-prestashop-theme/14100073?ref=xpert-idea">Jakiro Prestashop Theme </a>
+* <a href="https://themeforest.net/item/great-store-ecommerce-prestashop-theme/18303739?ref=xpert-idea">Great Store Prestashop Theme</a>
